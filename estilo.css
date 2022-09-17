@@ -1,0 +1,31 @@
+body, pre {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Times New Roman', Times, serif;
+    font-size: 105%;
+}
+label {
+    display: inline-block;
+    width: 80px;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+form {
+    margin: 5px 10px;
+    padding: 10px;
+    display: inline-block;
+    float: left;
+    border-right: 2px darkgray dotted;
+}
+
+div#dResposta {
+    background-color: seashell;
+    margin: 5px 10px;
+    padding: 10px;
+    min-width: 30%;
+    width: 100%;
+    max-width: 67%;
+    min-height: 180px;
+    display: inline-block;
+}
